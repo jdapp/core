@@ -1,0 +1,4 @@
+core
+====
+
+jdapp core code
